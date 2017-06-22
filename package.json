@@ -1,0 +1,21 @@
+{
+  "name": "hostnamectl",
+  "version": "0.1.0",
+  "description": "Allows you to control hostname using the hostnamectl command easily and asynchronously",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bmcclure/node-hostnamectl.git"
+  },
+  "keywords": [
+    "Hostnamectl",
+    "Arch",
+    "Archlinux"
+  ],
+  "author": "Ben McClure",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/bmcclure/node-hostnamectl/issues"
+  },
+  "homepage": "https://github.com/bmcclure/node-hostnamectl",
+  "dependencies": {}
+}
