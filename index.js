@@ -7,7 +7,7 @@ module.exports = {
 }
 
 function _get_hostname(callback) {
-    callback(os.hostname())
+    callback(null, os.hostname())
 }
 
 function _set_hostname(hostname, callback) {
