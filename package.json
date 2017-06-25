@@ -1,6 +1,6 @@
 {
   "name": "hostnamectl",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Allows you to control hostname using the hostnamectl command easily and asynchronously",
   "repository": {
     "type": "git",
